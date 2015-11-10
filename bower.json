@@ -1,0 +1,13 @@
+{
+  "name": "ace-builds",
+  "description": "Ace (Ajax.org Cloud9 Editor)",
+  "license": "BSD",
+  "homepage": "https://ace.c9.io/",
+  "authors": [{
+    "name": "",
+    "homepage": "https://ace.c9.io/"
+  }],
+  "main": ["src-min-noconflict/ext-language_tools.js", "src-min-noconflict/ace.js"],
+  "dependencies": {
+  }
+}
